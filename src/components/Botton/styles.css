@@ -1,7 +1,7 @@
-.ct-button{
+.ct-botton {
     height: 40px;
     width: 100%;
-    background-color: var(-ct-color-bg-tertiary);
+    background-color: var(--ct-color-bg-tertiary);
     color: var(--ct-color-font-quartenary);
     font-size: 14px;
     font-weight: 700;

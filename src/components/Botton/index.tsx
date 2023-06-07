@@ -1,8 +1,8 @@
 import './styles.css';
 
-export default function Button(){
+export default function Botton(){
     return(
-        <div className='ct-button'>
+        <div className="ct-botton">
             Comprar
         </div>
    );
